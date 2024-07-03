@@ -1,0 +1,4 @@
+los números de estados significan:
+0: No se muestran, eliminacion fisica
+1: Se muestran, no estan eliminadas
+2: Poco usadas, tal vez se pueda utilizar para mostrar las cosas eliminadas en el carrito pero no creo que sirvan mucho
